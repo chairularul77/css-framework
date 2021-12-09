@@ -1,0 +1,6 @@
+jenis jenis position dalam css layouting
+- static
+- relative
+- absolute
+- fixed
+- sticky
